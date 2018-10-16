@@ -34,3 +34,4 @@
 *.db-shm
 *.db-wal
 *.vcxproj
+*.suo
