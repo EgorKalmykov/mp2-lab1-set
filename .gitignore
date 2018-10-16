@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.ipch
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+*.vcxproj
