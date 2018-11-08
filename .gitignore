@@ -35,3 +35,10 @@
 *.db-wal
 *.vcxproj
 *.suo
+sln/vc10/bitfield/Debug/
+
+sln/vc10/Debug/
+
+sln/vc10/test_bitfield/Debug/
+
+sln/vc10/gtest/Debug/
